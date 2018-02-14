@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/yoyaeArtax/bitcore-build-artax"
+    "url": "git://github.com/artaxYoyae/bitcore-build-artax"
   },
   "keywords": [
     "bitcore"
@@ -37,9 +37,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yoyaeArtax/bitcore-build-artax/issues"
+    "url": "https://github.com/artaxYoyae/bitcore-build-artax/issues"
   },
-  "homepage": "https://github.com/yoyaeArtax/bitcore-build-artax",
+  "homepage": "https://github.com/artaxYoyae/bitcore-build-artax",
   "dependencies": {
     "brfs": "^1.4.3",
     "browserify": "^13.1.1",
